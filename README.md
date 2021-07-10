@@ -64,6 +64,20 @@ Internet connection (Ethernet) <-- Main connection.
 
 ## ToDo
 
+## References
+
+askUbuntu: WiFi hotspot option disabled after upgrade to Ubuntu 20.04
+
+https://askubuntu.com/questions/1230690/wifi-hotspot-option-disabled-after-upgrade-to-ubuntu-20-04
+
+StackExchange: Set hotspot IP address
+
+https://unix.stackexchange.com/questions/392472/set-hotspot-ip-address
+
+iTecTec: Ubuntu – Set hotspot IP address
+
+https://itectec.com/unixlinux/ubuntu-set-hotspot-ip-address/
+
 ## Licence
 [MIT]
 
