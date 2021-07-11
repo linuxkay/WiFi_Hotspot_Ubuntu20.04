@@ -14,7 +14,7 @@ Turn on WiFi hotspot is greyed out for regular user. Need to run gnome-control-c
 ![turn_on_wifi_hotspot_greyedout_policy](https://user-images.githubusercontent.com/9047935/125162774-ab608080-e1c4-11eb-8f88-e0b7cd539288.jpg)
 
 
-Edit line containg [ipv4]
+Edit line containing [ipv4]
 
 `sudo vim /etc/NetworkManager/system-connections/Hotspot.nmconnection`
 
