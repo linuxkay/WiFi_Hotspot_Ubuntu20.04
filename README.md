@@ -36,7 +36,7 @@ Open gnome-control-center by
 
 `sudo gnome-control-center`
 
-Go to WiFi
+Go to WiFi settings.
 
 Now you can select
 
